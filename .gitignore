@@ -16,7 +16,6 @@ RelWithDebInfo
 *.xcodeproj
 
 # CMake files
-Makefile
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
